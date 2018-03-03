@@ -4,7 +4,7 @@ import '../css/landing.css';
 
 const Landing = () => (
   <div className="landing__wrapper">
-    <h1 className="landing__statement">Rudy's Cool App</h1>
+    <h1 className="landing__statement">Mario's Italian Restaurant</h1>
     <Button btnContent="Start app!"/>
   </div>
 );
